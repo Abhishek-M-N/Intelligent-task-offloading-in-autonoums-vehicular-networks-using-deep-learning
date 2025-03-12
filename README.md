@@ -1,13 +1,6 @@
 # Intelligent-task-offloading-in-autonoums-vehicular-networks-using-deep-learning
 This project applies Deep Reinforcement Learning (DRL) for task offloading in Vehicular Fog Computing (VFC), optimizing resource use among vehicles, RSUs, and the cloud to reduce latency and energy consumption. A PPO-based RL model improves scheduling and efficiency, outperforming traditional methods in dynamic vehicular networks.
-# Vehicular Fog Computing Task Offloading RL Environment
 
-This repository contains the source code of the following paper: <em>"Deep Reinforcement Learning for Delay-Optimized Task Offloading in Vehicular Fog Computing".</em> The pre-print version can be view here: https://arxiv.org/abs/2410.03472. We appreciate citing the paper if you found this repository to be useful.
-
-
-
-
-Paper abstract:
 > The imminent rise of autonomous vehicles (AVs) is revolutionizing the future of transport. The Vehicular Fog Computing (VFC) paradigm has emerged to alleviate the load of compute-intensive and delay-sensitive AV programs via task of- floading to nearby vehicles. Effective VFC requires an intelligent and dynamic offloading algorithm. As a result, this paper adapts Deep Reinforcement Learning (DRL) for VFC offloading. First, a simulation environment utilizing realistic hardware and task specifications, in addition to a novel vehicular movement model based on grid-planned cities, is created. Afterward, a DRL-based algorithm is trained and tested on the environment with the goal of minimizing global task delay. The DRL model displays impressive results, outperforming other greedy and conventional methods. The findings further demonstrate the effectiveness of the DRL model in minimizing queue congestion, especially when compared to traditional cloud computing methods that struggle to handle the demands of a large fleet of vehicles. This is corroborated by queuing theory, highlighting the self-scalability of the VFC-based DRL approach.
 
 
