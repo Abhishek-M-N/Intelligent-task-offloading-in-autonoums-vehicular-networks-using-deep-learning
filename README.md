@@ -1,0 +1,2 @@
+# Intelligent-task-offloading-in-autonoums-vehicular-networks-using-deep-learning
+This project applies Deep Reinforcement Learning (DRL) for task offloading in Vehicular Fog Computing (VFC), optimizing resource use among vehicles, RSUs, and the cloud to reduce latency and energy consumption. A PPO-based RL model improves scheduling and efficiency, outperforming traditional methods in dynamic vehicular networks.
